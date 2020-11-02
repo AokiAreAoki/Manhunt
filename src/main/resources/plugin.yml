@@ -1,0 +1,9 @@
+name: Manhunt
+main: me.aoki.manhunt.Manhunt
+version: ${project.version}
+authors: [Aoki]
+description: My implementation of Dream's manhunt plugin (the idea is credited to Dream (https://www.youtube.com/c/dream))
+commands:
+  mh:
+    description: /mh - for help.
+    usage: /<command>
